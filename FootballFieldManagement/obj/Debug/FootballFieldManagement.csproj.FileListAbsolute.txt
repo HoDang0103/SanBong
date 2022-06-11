@@ -1,0 +1,391 @@
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\FootballFieldManagement.exe.config
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\FootballFieldManagement.exe
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\FootballFieldManagement.pdb
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.Wpf.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignColors.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\System.Windows.Interactivity.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\ToastNotifications.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\ToastNotifications.Messages.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.xml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.Wpf.xml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\System.Windows.Interactivity.xml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csprojAssemblyReference.cache
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\ButtonStyle.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\TabControlStyle.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\BillTemplate.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\SalaryRecordTemplate.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\StockReceiptTemplate.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillInfoControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\DateControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\EmployeeControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldBookingControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldButtonControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldDetailsControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldTitleControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\GoodsControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsDetailsControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\PeriodControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ProductDetailsControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryEmployeeControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryInfoControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryRecordControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SellGoodsControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\NumericSpinner.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptInfoControl.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddFootballFieldWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddGoodsWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddTimeFrameWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckAttendanceWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddEmployeeWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\BookingWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckInWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ForgotPasswordWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CustomMessageBoxWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\HomeWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportGoodsWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportStockWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\LoginWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PaySalaryWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PayWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ReportFieldWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetTimeFrameWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetSalaryWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SignUpWindow.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\App.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement_MarkupCompile.cache
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement_MarkupCompile.lref
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\App.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\ColorPalette.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\DropShadowStyle.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\MainResource.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\ScrollBarStyle.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\BillTemplate.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\SalaryRecordTemplate.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\StockReceiptTemplate.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillInfoControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\DateControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\EmployeeControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldBookingControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldButtonControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldDetailsControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldTitleControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\GoodsControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsDetailsControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\PeriodControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ProductDetailsControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryEmployeeControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryInfoControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryRecordControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SellGoodsControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\NumericSpinner.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptInfoControl.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddFootballFieldWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddGoodsWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddTimeFrameWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckAttendanceWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddEmployeeWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\BookingWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckInWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ForgotPasswordWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CustomMessageBoxWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\HomeWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportGoodsWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportStockWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\LoginWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PaySalaryWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PayWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ReportFieldWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetTimeFrameWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetSalaryWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SignUpWindow.baml
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.g.resources
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.Properties.Resources.resources
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.GenerateResource.cache
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.CoreCompileInputs.cache
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.CopyComplete
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.exe
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.pdb
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\NUnit3.TestAdapter.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\NUnit3.TestAdapter.pdb
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.engine.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.engine.api.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.engine.core.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\testcentric.engine.metadata.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.framework.dll
+D:\New folder\Nhóm 18\Source Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.framework.xml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.engine.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.engine.api.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.engine.core.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\FootballFieldManagement.exe.config
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\FootballFieldManagement.exe
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\FootballFieldManagement.pdb
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignColors.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.framework.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\ToastNotifications.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.xml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignColors.pdb
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.framework.xml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\ButtonStyle.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\TabControlStyle.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\BillTemplate.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\SalaryRecordTemplate.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\StockReceiptTemplate.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillInfoControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\DateControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\EmployeeControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldBookingControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldButtonControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldDetailsControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldTitleControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\GoodsControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsDetailsControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\PeriodControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ProductDetailsControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryEmployeeControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryInfoControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryRecordControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SellGoodsControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\NumericSpinner.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptInfoControl.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddFootballFieldWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddGoodsWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddTimeFrameWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckAttendanceWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddEmployeeWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\BookingWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckInWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ForgotPasswordWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CustomMessageBoxWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\HomeWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportGoodsWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportStockWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PaySalaryWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PayWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ReportFieldWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetTimeFrameWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetSalaryWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SignUpWindow.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\App.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement_MarkupCompile.cache
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement_MarkupCompile.lref
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\App.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\ColorPalette.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\DropShadowStyle.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\MainResource.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\ScrollBarStyle.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\BillTemplate.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\SalaryRecordTemplate.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\StockReceiptTemplate.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillInfoControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\DateControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\EmployeeControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldBookingControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldButtonControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldDetailsControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldTitleControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\GoodsControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsDetailsControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\PeriodControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ProductDetailsControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryEmployeeControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryInfoControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryRecordControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SellGoodsControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\NumericSpinner.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptInfoControl.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddFootballFieldWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddGoodsWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddTimeFrameWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckAttendanceWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddEmployeeWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\BookingWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckInWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ForgotPasswordWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CustomMessageBoxWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\HomeWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportGoodsWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportStockWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\LoginWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PaySalaryWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PayWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ReportFieldWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetTimeFrameWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetSalaryWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SignUpWindow.baml
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.g.resources
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.Properties.Resources.resources
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.GenerateResource.cache
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.CoreCompileInputs.cache
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.CopyComplete
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.exe
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.pdb
+C:\Users\giaba\Downloads\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.AssemblyReference.cache
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\NUnit3.TestAdapter.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.engine.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.engine.api.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.engine.core.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\testcentric.engine.metadata.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\FootballFieldManagement.exe.config
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\FootballFieldManagement.exe
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\FootballFieldManagement.pdb
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.Wpf.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignColors.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.framework.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\System.Windows.Interactivity.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\ToastNotifications.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\ToastNotifications.Messages.dll
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.xml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\LiveCharts.Wpf.xml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignColors.pdb
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\nunit.framework.xml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\bin\Debug\System.Windows.Interactivity.xml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.AssemblyReference.cache
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\ButtonStyle.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\TabControlStyle.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\BillTemplate.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\SalaryRecordTemplate.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\StockReceiptTemplate.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillInfoControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\DateControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\EmployeeControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldBookingControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldButtonControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldDetailsControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldTitleControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\GoodsControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsDetailsControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\PeriodControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ProductDetailsControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryEmployeeControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryInfoControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryRecordControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SellGoodsControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\NumericSpinner.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptInfoControl.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddFootballFieldWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddGoodsWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddTimeFrameWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckAttendanceWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddEmployeeWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\BookingWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckInWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ForgotPasswordWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CustomMessageBoxWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\HomeWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportGoodsWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportStockWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\LoginWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PaySalaryWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PayWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ReportFieldWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetTimeFrameWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetSalaryWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SignUpWindow.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\App.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement_MarkupCompile.cache
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement_MarkupCompile.lref
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\App.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\ColorPalette.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\DropShadowStyle.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\MainResource.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\ScrollBarStyle.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\BillTemplate.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\SalaryRecordTemplate.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\Template\StockReceiptTemplate.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\BillInfoControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\DateControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\EmployeeControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldBookingControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldButtonControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldDetailsControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\FieldTitleControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\GoodsControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ImportGoodsDetailsControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\PeriodControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\ProductDetailsControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryEmployeeControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryInfoControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SalaryRecordControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\SellGoodsControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\NumericSpinner.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Resources\UserControls\StockReceiptInfoControl.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddFootballFieldWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddGoodsWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddTimeFrameWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckAttendanceWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\AddEmployeeWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\BookingWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CheckInWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ForgotPasswordWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\CustomMessageBoxWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\HomeWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportGoodsWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ImportStockWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\LoginWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PaySalaryWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\PayWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\ReportFieldWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetTimeFrameWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SetSalaryWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\Views\SignUpWindow.baml
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.g.resources
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.Properties.Resources.resources
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.GenerateResource.cache
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.CoreCompileInputs.cache
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.csproj.CopyComplete
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.exe
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\FootballFieldManagement.pdb

@@ -1,0 +1,20 @@
+﻿FootballFieldManagement
+
+
+winexe
+C#
+.cs
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\obj\Debug\
+FootballFieldManagement
+none
+false
+DEBUG;TRACE
+D:\Dang\Lập trình trực quan\do an1\Source Code + Test Code\FootballFieldManagement-master\FootballFieldManagement\FootballFieldManagement\App.xaml
+49-212887898
+
+106-629612081
+25-1453363976
+Resources\ButtonStyle.xaml;Resources\ColorPalette.xaml;Resources\DropShadowStyle.xaml;Resources\MainResource.xaml;Resources\ScrollBarStyle.xaml;Resources\TabControlStyle.xaml;Resources\Template\BillTemplate.xaml;Resources\Template\SalaryRecordTemplate.xaml;Resources\Template\StockReceiptTemplate.xaml;Resources\UserControls\BillControl.xaml;Resources\UserControls\BillInfoControl.xaml;Resources\UserControls\DateControl.xaml;Resources\UserControls\EmployeeControl.xaml;Resources\UserControls\FieldBookingControl.xaml;Resources\UserControls\FieldButtonControl.xaml;Resources\UserControls\FieldControl.xaml;Resources\UserControls\FieldDetailsControl.xaml;Resources\UserControls\FieldTitleControl.xaml;Resources\UserControls\GoodsControl.xaml;Resources\UserControls\ImportGoodsControl.xaml;Resources\UserControls\ImportGoodsDetailsControl.xaml;Resources\UserControls\PeriodControl.xaml;Resources\UserControls\ProductDetailsControl.xaml;Resources\UserControls\SalaryEmployeeControl.xaml;Resources\UserControls\SalaryInfoControl.xaml;Resources\UserControls\SalaryRecordControl.xaml;Resources\UserControls\SellGoodsControl.xaml;Resources\UserControls\NumericSpinner.xaml;Resources\UserControls\StockReceiptControl.xaml;Resources\UserControls\StockReceiptInfoControl.xaml;Views\AddFootballFieldWindow.xaml;Views\AddGoodsWindow.xaml;Views\AddTimeFrameWindow.xaml;Views\CheckAttendanceWindow.xaml;Views\AddEmployeeWindow.xaml;Views\BookingWindow.xaml;Views\CheckInWindow.xaml;Views\ForgotPasswordWindow.xaml;Views\CustomMessageBoxWindow.xaml;Views\HomeWindow.xaml;Views\ImportGoodsWindow.xaml;Views\ImportStockWindow.xaml;Views\LoginWindow.xaml;Views\PaySalaryWindow.xaml;Views\PayWindow.xaml;Views\ReportFieldWindow.xaml;Views\SetTimeFrameWindow.xaml;Views\SetSalaryWindow.xaml;Views\SignUpWindow.xaml;
+
+False
+
